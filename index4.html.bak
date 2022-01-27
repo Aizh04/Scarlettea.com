@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>Reviews</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="styles/layout4.css" type="text/css">
+<!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<div class="wrapper row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+      <h1><a href="#">Scarlettea</a></h1>
+      <h2>Milktea</h2>
+    </div>
+    <form action="#" method="post">
+      <fieldset>
+        <legend>Search:</legend>
+        <input type="text" value="Search Our Website&hellip;" onFocus="this.value=(this.value=='Search Our Website&hellip;')? '' : this.value ;">
+        <input type="submit" id="sf_submit" value="submit">
+      </fieldset>
+    </form>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index2.html">Flavors</a></li>
+        <li><a href="index3.html">Rates</a></li>
+        <li><a href="index4.html">Reviews</a></li>
+        <li class="last"><a href="index5.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+<!-- content -->
+<div class="wrapper row2">
+  <div id="container" class="clear">
+    <!-- Slider -->
+    <section id="slider" class="clear">
+      <figure><img src="images/demo/asa.png" alt="">
+        <figcaption>
+          <h2>Reviews create brand loyalty!</h2>
+          <p>Online reviews are important because they have become a reference point for buyers across the globe and because so many people trust them when making purchasing decisions.</p>
+          <footer class="more"><a href="https://planetmarketing.com/blog/why-are-reviews-important/#:~:text=Reviews%20create%20brand%20loyalty,business%20should%20the%20need%20arise.">Read More &raquo;</a></footer>
+        </figcaption>
+      </figure>
+    </section>
+    <!-- main content -->
+ <div id="content">
+      <section id="posts" class="last clear">
+        <ul>
+          <li>
+            <article class="clear">
+              <figure><img src="images/demo/217712448_155722816628004_16828226559571117_n.jpg" alt="">
+                <figcaption>
+                  <h2>John Michael Binag</h2>
+                  <p>You guys, I have been craving bubble tea for weeks now. Its not impossible to find but not conveniently located where I live. So seeing this was even available to purchase online made my heart sing with joy! I made this the second I got it.</p>
+                  <footer class="more"><a href="https://www.facebook.com/michaelbinag24">Read More &raquo;</a></footer>
+                </figcaption>
+              </figure>
+            </article>
+          </li>
+          <li class="last">
+            <article class="clear">
+              <figure><img src="images/demo/217693378_155725639961055_4994308941852454861_n.jpg" alt="">
+                <figcaption>
+                  <h2>Querobin Persincula</h2>
+                  <p>The taste is pretty good and I was pleasantly surprised. More of a traditional milk tea taste, which doesn't have an over-powering sweetness. For those who prefer their teas on the sweeter side, you will most likely need to add some additional sucrose or honey.</p>
+                  <footer class="more"><a href="https://www.facebook.com/zainlee.1122">Read More &raquo;</a></footer>
+                </figcaption>
+              </figure>
+            </article>
+          </li>
+        </ul>
+      </section>
+    </div>
+    <!-- right column -->
+    <aside id="right_column">
+      <h2 class="title">Reviews!</h2>
+      <nav>
+        <ul>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.268704105329874/268703288663289/">Thank you! Masarap</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.268704105329874/268703388663279">Super sarap ng hazelnut...</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.268704105329874/268703535329931">Dabest paren HAHAHAHA</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.268704105329874/268703581996593">Thank you ate</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426655157619/">Masarap nagustuhan ng...</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426541824297">By the way salamat...</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426545157630">Thank you din po ang sarap...</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426708490947">Wow ang sarap...</a></li>
+          <li><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426585157626">Okay na po ang sarap talaga</a></li>
+          <li class="last"><a href="https://www.facebook.com/allison.scarlettea/photos/pcb.270426878490930/270426778490940">Thank you po, sobrang sulit...</a></li>
+        </ul>
+      </nav>
+      <!-- /nav -->
+    </aside>
+    <!-- / content body -->
+  </div>
+</div>
+<!-- Footer -->
+<div class="wrapper row3">
+  <footer id="footer" class="clear">
+    <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - <a href="#">Ulyssis P. Binag</a></p>
+    <p class="fl_right">Made by Heart - <a target="_blank" href="https://www.facebook.com/allison.scarlettea" title="Free Website Templates">Scarlettea</a></p>
+  </footer>
+</div>
+</body>
+</html>
